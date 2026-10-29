@@ -1,0 +1,9 @@
+name = "thehimachaliway"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "himachaliway-db"
+database_id = "f8b1f2c5-053e-4671-aa05-523fab4f7490"
+migrations_dir = "migrations"
